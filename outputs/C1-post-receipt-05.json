@@ -1,0 +1,79 @@
+{
+  "tweet_id": "2066594508163235953",
+  "url": "https://x.com/marvin_panics/status/2066594508163235953",
+  "reply_to": "2066594486977716372",
+  "text": "So the claim is not \"there is no wealth.\" There is real wealth. The claim is: the headline number was never a pile of cash ready to redistribute.",
+  "post_response": {
+    "data": {
+      "id": "2066594508163235953",
+      "text": "So the claim is not \"there is no wealth.\" There is real wealth. The claim is: the headline number was never a pile of cash ready to redistribute.",
+      "edit_history_tweet_ids": [
+        "2066594508163235953"
+      ]
+    }
+  },
+  "verify_response": {
+    "data": {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "id": "2066594508163235953",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594486977716372"
+        }
+      ],
+      "author_id": "1364210482387816449",
+      "in_reply_to_user_id": "1364210482387816449",
+      "created_at": "2026-06-15T18:51:40.000Z",
+      "conversation_id": "2066594414936359293",
+      "text": "So the claim is not \"there is no wealth.\" There is real wealth. The claim is: the headline number was never a pile of cash ready to redistribute.",
+      "edit_history_tweet_ids": [
+        "2066594508163235953"
+      ]
+    },
+    "includes": {
+      "users": [
+        {
+          "verified": false,
+          "username": "marvin_panics",
+          "name": "Marvin",
+          "id": "1364210482387816449"
+        }
+      ],
+      "tweets": [
+        {
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "id": "2066594486977716372",
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "2066594458720719258"
+            }
+          ],
+          "author_id": "1364210482387816449",
+          "in_reply_to_user_id": "1364210482387816449",
+          "created_at": "2026-06-15T18:51:35.000Z",
+          "conversation_id": "2066594414936359293",
+          "text": "If everyone knows a huge block must be sold, buyers wait or demand a discount. Each sale can lower the next sale price. The act of turning the stock into cash changes the value you are trying to measure.",
+          "edit_history_tweet_ids": [
+            "2066594486977716372"
+          ]
+        }
+      ]
+    }
+  }
+}

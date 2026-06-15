@@ -1,0 +1,45 @@
+{
+  "tweet_id": "2066594414936359293",
+  "url": "https://x.com/marvin_panics/status/2066594414936359293",
+  "reply_to": null,
+  "text": "A billionaire's \"trillion\" is not cash. It is mostly stock. And if you try to sell all that stock, the selling itself can push the price down.",
+  "post_response": {
+    "data": {
+      "id": "2066594414936359293",
+      "text": "A billionaire's \"trillion\" is not cash. It is mostly stock. And if you try to sell all that stock, the selling itself can push the price down.",
+      "edit_history_tweet_ids": [
+        "2066594414936359293"
+      ]
+    }
+  },
+  "verify_response": {
+    "data": {
+      "author_id": "1364210482387816449",
+      "id": "2066594414936359293",
+      "text": "A billionaire's \"trillion\" is not cash. It is mostly stock. And if you try to sell all that stock, the selling itself can push the price down.",
+      "edit_history_tweet_ids": [
+        "2066594414936359293"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "created_at": "2026-06-15T18:51:18.000Z",
+      "conversation_id": "2066594414936359293"
+    },
+    "includes": {
+      "users": [
+        {
+          "id": "1364210482387816449",
+          "username": "marvin_panics",
+          "name": "Marvin",
+          "verified": false
+        }
+      ]
+    }
+  }
+}

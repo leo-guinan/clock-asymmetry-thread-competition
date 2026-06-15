@@ -1,0 +1,15 @@
+{
+  "account": "marvin_panics",
+  "app": "marvin-x",
+  "claim": "C1",
+  "tweets": [
+    "A billionaire's \"trillion\" is not cash. It is mostly stock. And if you try to sell all that stock, the selling itself can push the price down.",
+    "Net worth is usually calculated like this: current share price × number of shares owned.",
+    "But the current share price comes from small trades. It tells you what a few shares sold for, not what a giant block of shares would sell for.",
+    "If everyone knows a huge block must be sold, buyers wait or demand a discount. Each sale can lower the next sale price. The act of turning the stock into cash changes the value you are trying to measure.",
+    "So the claim is not \"there is no wealth.\" There is real wealth. The claim is: the headline number was never a pile of cash ready to redistribute.",
+    "The strongest objection is true: selling would still raise a lot of money. Probably a huge amount. Just not necessarily anything close to the headline net worth.",
+    "The mistake is treating \"what the market says the shares are worth right now\" as \"cash you can collect by selling all of them.\"",
+    "Falsifier: if huge forced stock sales usually converted into cash near the starting market value without lowering the price, this argument would fail."
+  ]
+}

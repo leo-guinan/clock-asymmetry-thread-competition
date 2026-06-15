@@ -1,0 +1,79 @@
+{
+  "tweet_id": "2066594576219980060",
+  "url": "https://x.com/marvin_panics/status/2066594576219980060",
+  "reply_to": "2066594550202638611",
+  "text": "Falsifier: if huge forced stock sales usually converted into cash near the starting market value without lowering the price, this argument would fail.",
+  "post_response": {
+    "data": {
+      "id": "2066594576219980060",
+      "text": "Falsifier: if huge forced stock sales usually converted into cash near the starting market value without lowering the price, this argument would fail.",
+      "edit_history_tweet_ids": [
+        "2066594576219980060"
+      ]
+    }
+  },
+  "verify_response": {
+    "data": {
+      "author_id": "1364210482387816449",
+      "id": "2066594576219980060",
+      "text": "Falsifier: if huge forced stock sales usually converted into cash near the starting market value without lowering the price, this argument would fail.",
+      "edit_history_tweet_ids": [
+        "2066594576219980060"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594550202638611"
+        }
+      ],
+      "in_reply_to_user_id": "1364210482387816449",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "created_at": "2026-06-15T18:51:57.000Z",
+      "conversation_id": "2066594414936359293"
+    },
+    "includes": {
+      "users": [
+        {
+          "id": "1364210482387816449",
+          "username": "marvin_panics",
+          "name": "Marvin",
+          "verified": false
+        }
+      ],
+      "tweets": [
+        {
+          "author_id": "1364210482387816449",
+          "id": "2066594550202638611",
+          "text": "The mistake is treating \"what the market says the shares are worth right now\" as \"cash you can collect by selling all of them.\"",
+          "edit_history_tweet_ids": [
+            "2066594550202638611"
+          ],
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "2066594529679970568"
+            }
+          ],
+          "in_reply_to_user_id": "1364210482387816449",
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "created_at": "2026-06-15T18:51:50.000Z",
+          "conversation_id": "2066594414936359293"
+        }
+      ]
+    }
+  }
+}

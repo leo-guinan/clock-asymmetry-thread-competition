@@ -1,0 +1,129 @@
+{
+  "account": "marvin_panics",
+  "app": "marvin-x",
+  "claim": "C1",
+  "root_id": "2066594414936359293",
+  "root_url": "https://x.com/marvin_panics/status/2066594414936359293",
+  "last_id": "2066594576219980060",
+  "last_url": "https://x.com/marvin_panics/status/2066594576219980060",
+  "tweet_ids": [
+    "2066594414936359293",
+    "2066594434183987369",
+    "2066594458720719258",
+    "2066594486977716372",
+    "2066594508163235953",
+    "2066594529679970568",
+    "2066594550202638611",
+    "2066594576219980060"
+  ],
+  "chain_verified_direct_read": true,
+  "receipts": [
+    {
+      "n": 1,
+      "tweet_id": "2066594414936359293",
+      "url": "https://x.com/marvin_panics/status/2066594414936359293",
+      "reply_to": null,
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": []
+    },
+    {
+      "n": 2,
+      "tweet_id": "2066594434183987369",
+      "url": "https://x.com/marvin_panics/status/2066594434183987369",
+      "reply_to": "2066594414936359293",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594414936359293"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "tweet_id": "2066594458720719258",
+      "url": "https://x.com/marvin_panics/status/2066594458720719258",
+      "reply_to": "2066594434183987369",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594434183987369"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "tweet_id": "2066594486977716372",
+      "url": "https://x.com/marvin_panics/status/2066594486977716372",
+      "reply_to": "2066594458720719258",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594458720719258"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "tweet_id": "2066594508163235953",
+      "url": "https://x.com/marvin_panics/status/2066594508163235953",
+      "reply_to": "2066594486977716372",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594486977716372"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "tweet_id": "2066594529679970568",
+      "url": "https://x.com/marvin_panics/status/2066594529679970568",
+      "reply_to": "2066594508163235953",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594508163235953"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "tweet_id": "2066594550202638611",
+      "url": "https://x.com/marvin_panics/status/2066594550202638611",
+      "reply_to": "2066594529679970568",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594529679970568"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "tweet_id": "2066594576219980060",
+      "url": "https://x.com/marvin_panics/status/2066594576219980060",
+      "reply_to": "2066594550202638611",
+      "verified_text_matches": true,
+      "conversation_id": "2066594414936359293",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2066594550202638611"
+        }
+      ]
+    }
+  ]
+}
