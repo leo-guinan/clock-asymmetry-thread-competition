@@ -1,0 +1,26 @@
+{
+  "weights": {
+    "hook_force": 0.18,
+    "mechanism_clarity": 0.18,
+    "counter_readiness": 0.14,
+    "audience_fit": 0.16,
+    "falsifiability": 0.12,
+    "novelty_compression": 0.1,
+    "retweetability": 0.08,
+    "misread_risk": -0.14
+  },
+  "minimum_promotion": {
+    "mechanism_clarity": 7.0,
+    "counter_readiness": 7.0
+  },
+  "judge_personas": [
+    "sympathetic_target_reader",
+    "smart_hostile_critic",
+    "distribution_editor"
+  ],
+  "outcome_windows": [
+    "2h",
+    "24h",
+    "72h"
+  ]
+}

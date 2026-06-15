@@ -1,0 +1,119 @@
+[
+  {
+    "id": "C1",
+    "tier": 1,
+    "title": "Liquidation reveals the trillion was never there",
+    "hook": "A billionaire's trillion is not a pile of money. It is the market's belief about assets, sharp only because nobody is selling. Liquidate it and you sample at the worst possible rate; the number collapses on contact. You cannot redistribute a posterior.",
+    "hold_line": "The value exists in the unsampled state. Forced sale is a wave hitting a price that only held while it was not being sold into. Selling destroys part of the thing being sold.",
+    "real_counter": "Liquidation still yields something large. Concede residual; hold that the headline was never distributable.",
+    "recruits": "redistribution discourse, both tribes"
+  },
+  {
+    "id": "C2",
+    "tier": 1,
+    "title": "Redistributing money is redistributing the fruit, not the orchard",
+    "hook": "Wealth is a generator function: knowing which games exist and how the rules work. Hand most people $3,000 and it decays back to subsistence because the generator stayed elsewhere. Outputs are the wrong redistribution target.",
+    "hold_line": "You can move the amplifier but not the signal that aims it. Money with no model is amplification with no steering.",
+    "real_counter": "This can read as 'poor lack skill'. State first: wealth \u2248 generator \u00d7 network position; position is inherited/luck/access, not merit. Cash moves neither.",
+    "recruits": "both tribes; likely willful misreading"
+  },
+  {
+    "id": "C3",
+    "tier": 1,
+    "title": "The most fundable ideas are the worst risk-adjusted bets",
+    "hook": "Fundability measures how crowded a thesis already is. Abundant capital chases the same fundable idea; everyone launches the same wave at once, and the waves interfere. You get priced at the peak and paid on the residue.",
+    "hold_line": "Each founder is privately rational; the aggregate competes away the opportunity. Interference is invisible at funding time because it settles after the check clears.",
+    "real_counter": "Some crowded waves build shared infrastructure. Correct: distinguish constructive from destructive interference; claim targets waves competing for the same rent on a substrate that pays once.",
+    "recruits": "founders, VCs"
+  },
+  {
+    "id": "C4",
+    "tier": 1,
+    "title": "It is now easier to make real value locally than to change the world",
+    "hook": "The scarce resource is stationarity: a piece of the world that holds still long enough to build durable value. Wide world-changing plays destroy their own stationarity through interference. Narrow local plays are the substrates still standing still.",
+    "hold_line": "Fast-and-wide starts broad but cannot narrow or steer; cheap-and-slow stays focused and captures what it builds.",
+    "real_counter": "Some things require global scale. Yes: claim is about where capturable value concentrates for most builders, not that scale never wins.",
+    "recruits": "builders, indie hackers, anti-VC crowd"
+  },
+  {
+    "id": "C5",
+    "tier": 2,
+    "title": "No single AI lab will hold the frontier again",
+    "hook": "The frontier is reconstructible from cheaper parts: ensemble weaker models, beat the frontier, recurse. A position rebuildable from commodity parts earns no durable rent. Labs are spending like they are building a moat and buying a packing lead coverage erases.",
+    "hold_line": "Capability-per-cost is the dimension the market learns to reconstruct. Cost competition races to zero by construction.",
+    "real_counter": "Ensembling wins on benchmarks, not long-horizon agentic work. Concede domain limit: holds wherever tasks are cheaply checkable.",
+    "recruits": "AI researchers, infra people"
+  },
+  {
+    "id": "C6",
+    "tier": 2,
+    "title": "The benchmark-able frontier is the one labs cannot defend",
+    "hook": "When you can cheaply check if an AI did well, merit routes around brand. Incumbents are incentivized to move evaluation from external to internal: trust our taste. The taste-and-trust frontier is the defensible one. Watch eval move.",
+    "hold_line": "Whoever controls whether a capability is cheaply checkable controls whether merit or brand wins it.",
+    "real_counter": "Taste genuinely matters. True; the uncheckable parts are where position legitimately dominates, which is why incumbents prefer to compete there.",
+    "recruits": "AI builders, eval/safety people"
+  },
+  {
+    "id": "C7",
+    "tier": 2,
+    "title": "Cheap trustworthy validation is the whole game",
+    "hook": "When validation is expensive, it gets skipped; skipped validation means position decides instead of merit. The master variable is the cost of a check you can trust. Cheap trustworthy audits keep fields merit-routable instead of collapsing into who you know.",
+    "hold_line": "An audit pays validation cost once through a trusted party, so everyone downstream gets the external check cheaply.",
+    "real_counter": "Audits can be captured/Goodharted. True; trustworthy is load-bearing. Keeping auditor honest is the next problem, not a refutation.",
+    "recruits": "safety, infra, governance, eval people"
+  },
+  {
+    "id": "C8",
+    "tier": 3,
+    "title": "Information economics has no theory of the target moving while you learn it",
+    "hook": "Search, signaling, prices: info-econ assumes the thing you learn holds still long enough to learn it. It is a theory of reaching information equilibrium. It lacks native account of what happens when the world changes faster than markets validate change.",
+    "hold_line": "Classical results are the slow-change limit, not wrong. This is the fast-change case.",
+    "real_counter": "Rational expectations handles anticipated change. Reply: asymmetry is temporal, not rationality failure; slow signal is unavailable at decision time.",
+    "recruits": "economists, paper-quality readers"
+  },
+  {
+    "id": "C9",
+    "tier": 3,
+    "title": "There is a phase transition where trust can no longer form",
+    "hook": "Let \u03bb be world-change rate and \u03bc market-validation rate. Below \u03bb\u2248\u03bc you get settled trust. Above it, observations go stale before enough accumulate: permanent disequilibrium. AI pushes \u03bb up while \u03bc stays human-paced.",
+    "hold_line": "Validation is human-bounded; generation is not. \u03bb/\u03bc rises mechanically.",
+    "real_counter": "\u03bc also rises with tools. Partly, but terminal validator is human judgment/trust, not infinitely accelerable.",
+    "recruits": "economists, complexity people"
+  },
+  {
+    "id": "C10",
+    "tier": 3,
+    "title": "Velocity itself biases you toward good news",
+    "hook": "In a fast market, positive signal arrives fast and negative signal arrives slow. A firm deciding on the fast clock structurally under-samples slow bad news. The faster you run, the more your feedback diet skews toward confirmation.",
+    "hold_line": "Speed does not hide bad news; it outruns it.",
+    "real_counter": "Smart firms forecast the slow signal. Some do, but forecasts of slow harm are exactly what fast positive feedback crowds out.",
+    "recruits": "strategy, behavioral econ, fast-company skeptics"
+  },
+  {
+    "id": "C11",
+    "tier": 4,
+    "title": "Money has no internal motivation model, so it runs in circles",
+    "hook": "Capital is capacity to act with no sense of what is worth doing: amplification with no steering. In a fast market it borrows direction from nearest signal, which is other capital. Money steered by money, with reality cut out, is a runaway.",
+    "hold_line": "A system responding only to itself accelerates because the only signal left is its own. Human judgment is steering, not fuel.",
+    "real_counter": "Returns are real-world signal. Returns are fast signals that can decouple from slow reality; the decoupling window is where runaways live.",
+    "recruits": "systems thinkers, finance people"
+  },
+  {
+    "id": "C12",
+    "tier": 4,
+    "title": "A floor is worth more the more you build on it, and it can never be cheapest",
+    "hook": "Compete on cost and you race to zero because cost is reconstructible. Be a dependable floor and you appreciate because others build on you, which requires trust that you will not move. You need reliability, not cheapest or best.",
+    "hold_line": "A stable floor lets everyone above stop re-checking their foundation and spend energy building.",
+    "real_counter": "This is network effects/lock-in. Distinct: asset is dependability, not network size. A trusted small floor beats a large erratic one.",
+    "recruits": "platform/infra people, economists"
+  },
+  {
+    "id": "C13",
+    "tier": 4,
+    "title": "Defense is about to beat offense, because recognition got cheap and generation did not",
+    "hook": "Disruption worked because offense was faster than defense: inflict change before anyone learned resistance. AI flips this: novel disruption is open-ended generation; recognizing and adapting is pattern matching. If defense outruns offense, the world can push back in time.",
+    "hold_line": "Record state, let AI find drift, keep human authority to say no: observe, model, reject.",
+    "real_counter": "AI accelerates offense too. Load-bearing falsifier: if genuinely-new-state generation accelerates as much as recognition, reversal fails.",
+    "recruits": "security, AI governance"
+  }
+]

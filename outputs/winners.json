@@ -1,0 +1,275 @@
+[
+  {
+    "claim_id": "C1",
+    "claim_title": "Liquidation reveals the trillion was never there",
+    "winner_id": "C1-builder_practical-v2",
+    "lane": "builder_practical",
+    "score": 5.903,
+    "status": "viral_but_dangerous",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If you are choosing what to build, start here: A billionaire's trillion is not a pile of money. It's the market's belief about assets, sharp only; nobody is selling. Liquidate it and you sample at the worst possible rate; the number collapses on contact.",
+    "thread": [
+      "If you are choosing what to build, start here: A billionaire's trillion is not a pile of money. It's the market's belief about assets, sharp only; nobody is selling. Liquidate it and you sample at the worst possible rate; the number collapses on contact.",
+      "Claim: Liquidation reveals the trillion was never there.",
+      "Mechanism: The value exists in the unsampled state. Forced sale is a wave hitting a price that only held while it was not being sold into. Selling destroys part of the thing being sold.",
+      "Steelman: Liquidation still yields something large. Concede residual; hold that the headline was never distributable.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "Action test: choose the substrate where feedback arrives before the opportunity moves. Otherwise you are buying yesterday's map."
+    ],
+    "strongest_counter": "Liquidation still yields something large. Concede residual; hold that the headline was never distributable.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C2",
+    "claim_title": "Redistributing money is redistributing the fruit, not the orchard",
+    "winner_id": "C2-steelman_first-v3",
+    "lane": "steelman_first",
+    "score": 6.32,
+    "status": "publish_candidate",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If this claim is wrong, it is wrong here: This can read as 'poor lack skill'. State first: wealth ≈ generator × network position; position is inherited/luck/access, not merit. Cash moves neither. Outputs are the wrong redistribution target.",
+    "thread": [
+      "If this claim is wrong, it is wrong here: This can read as 'poor lack skill'. State first: wealth ≈ generator × network position; position is inherited/luck/access, not merit. Cash moves neither. Outputs are the wrong redistribution target.",
+      "Claim: Redistributing money is redistributing the fruit, not the orchard.",
+      "Mechanism: You can move the amplifier but not the signal that aims it. Money with no model is amplification with no steering.",
+      "Steelman: This can read as 'poor lack skill'. State first: wealth ≈ generator × network position; position is inherited/luck/access, not merit. Cash moves neither.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "This can read as 'poor lack skill'. State first: wealth ≈ generator × network position; position is inherited/luck/access, not merit. Cash moves neither.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C3",
+    "claim_title": "The most fundable ideas are the worst risk-adjusted bets",
+    "winner_id": "C3-steelman_first-v3",
+    "lane": "steelman_first",
+    "score": 6.44,
+    "status": "publish_candidate",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If this claim is wrong, it is wrong here: Some crowded waves build shared infrastructure. Correct: distinguish constructive from destructive interference; claim targets waves competing for the same rent on a substrate pays once.",
+    "thread": [
+      "If this claim is wrong, it is wrong here: Some crowded waves build shared infrastructure. Correct: distinguish constructive from destructive interference; claim targets waves competing for the same rent on a substrate pays once.",
+      "Claim: The most fundable ideas are the worst risk-adjusted bets.",
+      "Mechanism: Each founder is privately rational; the aggregate competes away the opportunity. Interference is invisible at funding time because it settles after the check clears.",
+      "Steelman: Some crowded waves build shared infrastructure. Correct: distinguish constructive from destructive interference; claim targets waves competing for the same rent on a substrate that pays once.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "Some crowded waves build shared infrastructure. Correct: distinguish constructive from destructive interference; claim targets waves competing for the same rent on a substrate that pays once.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C4",
+    "claim_title": "It is now easier to make real value locally than to change the world",
+    "winner_id": "C4-builder_practical-v2",
+    "lane": "builder_practical",
+    "score": 6.255,
+    "status": "publish_candidate",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If you are choosing what to build, start here: The scarce resource is stationarity: a piece of the world holds still long enough to build durable value. Wide world-changing plays destroy their own stationarity through interference.",
+    "thread": [
+      "If you are choosing what to build, start here: The scarce resource is stationarity: a piece of the world holds still long enough to build durable value. Wide world-changing plays destroy their own stationarity through interference.",
+      "Claim: It is now easier to make real value locally than to change the world.",
+      "Mechanism: Fast-and-wide starts broad but cannot narrow or steer; cheap-and-slow stays focused and captures what it builds.",
+      "Steelman: Some things require global scale. Yes: claim is about where capturable value concentrates for most builders, not that scale never wins.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "Action test: choose the substrate where feedback arrives before the opportunity moves. Otherwise you are buying yesterday's map."
+    ],
+    "strongest_counter": "Some things require global scale. Yes: claim is about where capturable value concentrates for most builders, not that scale never wins.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C5",
+    "claim_title": "No single AI lab will hold the frontier again",
+    "winner_id": "C5-builder_practical-v2",
+    "lane": "builder_practical",
+    "score": 6.245,
+    "status": "publish_candidate",
+    "pairwise_wins": 23,
+    "pairwise_losses": 1,
+    "hook": "If you are choosing what to build, start here: The frontier is reconstructible from cheaper parts: ensemble weaker models, beat the frontier, recurse. A position rebuildable from commodity parts earns no durable rent.",
+    "thread": [
+      "If you are choosing what to build, start here: The frontier is reconstructible from cheaper parts: ensemble weaker models, beat the frontier, recurse. A position rebuildable from commodity parts earns no durable rent.",
+      "Claim: No single AI lab will hold the frontier again.",
+      "Mechanism: Capability-per-cost is the dimension the market learns to reconstruct. Cost competition races to zero by construction.",
+      "Steelman: Ensembling wins on benchmarks, not long-horizon agentic work. Concede domain limit: holds wherever tasks are cheaply checkable.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "Action test: choose the substrate where feedback arrives before the opportunity moves. Otherwise you are buying yesterday's map."
+    ],
+    "strongest_counter": "Ensembling wins on benchmarks, not long-horizon agentic work. Concede domain limit: holds wherever tasks are cheaply checkable.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C6",
+    "claim_title": "The benchmark-able frontier is the one labs cannot defend",
+    "winner_id": "C6-builder_practical-v2",
+    "lane": "builder_practical",
+    "score": 6.157,
+    "status": "needs_rewrite",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If you are choosing what to build, start here: When you can cheaply check if an AI did well, merit routes around brand. Incumbents are incentivized to move evaluation from external to internal: trust our taste. The taste-and-trust frontier is the defensible one.",
+    "thread": [
+      "If you are choosing what to build, start here: When you can cheaply check if an AI did well, merit routes around brand. Incumbents are incentivized to move evaluation from external to internal: trust our taste. The taste-and-trust frontier is the defensible one.",
+      "Claim: The benchmark-able frontier is the one labs cannot defend.",
+      "Mechanism: Whoever controls whether a capability is cheaply checkable controls whether merit or brand wins it.",
+      "Steelman: Taste genuinely matters. True; the uncheckable parts are where position legitimately dominates, which is why incumbents prefer to compete there.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "Action test: choose the substrate where feedback arrives before the opportunity moves. Otherwise you are buying yesterday's map."
+    ],
+    "strongest_counter": "Taste genuinely matters. True; the uncheckable parts are where position legitimately dominates, which is why incumbents prefer to compete there.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C7",
+    "claim_title": "Cheap trustworthy validation is the whole game",
+    "winner_id": "C7-builder_practical-v2",
+    "lane": "builder_practical",
+    "score": 6.765,
+    "status": "publish_candidate",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If you are choosing what to build, start here: When validation is expensive, it gets skipped; skipped validation means position decides instead of merit. The master variable is the cost of a check you can trust.",
+    "thread": [
+      "If you are choosing what to build, start here: When validation is expensive, it gets skipped; skipped validation means position decides instead of merit. The master variable is the cost of a check you can trust.",
+      "Claim: Cheap trustworthy validation is the whole game.",
+      "Mechanism: An audit pays validation cost once through a trusted party, so everyone downstream gets the external check cheaply.",
+      "Steelman: Audits can be captured/Goodharted. True; trustworthy is load-bearing. Keeping auditor honest is the next problem, not a refutation.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "Action test: choose the substrate where feedback arrives before the opportunity moves. Otherwise you are buying yesterday's map."
+    ],
+    "strongest_counter": "Audits can be captured/Goodharted. True; trustworthy is load-bearing. Keeping auditor honest is the next problem, not a refutation.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C8",
+    "claim_title": "Information economics has no theory of the target moving while you learn it",
+    "winner_id": "C8-steelman_first-v2",
+    "lane": "steelman_first",
+    "score": 6.005,
+    "status": "viral_but_dangerous",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "Concede the strongest counter first: Rational expectations handles anticipated change. Reply: asymmetry is temporal, not rationality failure; slow signal is unavailable at decision time. It's a theory of reaching information equilibrium.",
+    "thread": [
+      "Concede the strongest counter first: Rational expectations handles anticipated change. Reply: asymmetry is temporal, not rationality failure; slow signal is unavailable at decision time. It's a theory of reaching information equilibrium.",
+      "Claim: Information economics has no theory of the target moving while you learn it.",
+      "Mechanism: Classical results are the slow-change limit, not wrong. This is the fast-change case.",
+      "Steelman: Rational expectations handles anticipated change. Reply: asymmetry is temporal, not rationality failure; slow signal is unavailable at decision time.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "Rational expectations handles anticipated change. Reply: asymmetry is temporal, not rationality failure; slow signal is unavailable at decision time.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C9",
+    "claim_title": "There is a phase transition where trust can no longer form",
+    "winner_id": "C9-steelman_first-v3",
+    "lane": "steelman_first",
+    "score": 6.342,
+    "status": "publish_candidate",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If this claim is wrong, it is wrong here: μ also rises with tools. Partly, but terminal validator is human judgment/trust, not infinitely accelerable. Still: Let λ be world-change rate and μ market-validation rate. Below λ≈μ you get settled trust.",
+    "thread": [
+      "If this claim is wrong, it is wrong here: μ also rises with tools. Partly, but terminal validator is human judgment/trust, not infinitely accelerable. Still: Let λ be world-change rate and μ market-validation rate. Below λ≈μ you get settled trust.",
+      "Claim: There is a phase transition where trust can no longer form.",
+      "Mechanism: Validation is human-bounded; generation is not. λ/μ rises mechanically.",
+      "Steelman: μ also rises with tools. Partly, but terminal validator is human judgment/trust, not infinitely accelerable.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "μ also rises with tools. Partly, but terminal validator is human judgment/trust, not infinitely accelerable.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C10",
+    "claim_title": "Velocity itself biases you toward good news",
+    "winner_id": "C10-steelman_first-v3",
+    "lane": "steelman_first",
+    "score": 6.065,
+    "status": "needs_rewrite",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If this claim is wrong, it is wrong here: Smart firms forecast the slow signal. Some do, but forecasts of slow harm are exactly what fast positive feedback crowds out. Still: In a fast market, positive signal arrives fast and negative signal arrives slow.",
+    "thread": [
+      "If this claim is wrong, it is wrong here: Smart firms forecast the slow signal. Some do, but forecasts of slow harm are exactly what fast positive feedback crowds out. Still: In a fast market, positive signal arrives fast and negative signal arrives slow.",
+      "Claim: Velocity itself biases you toward good news.",
+      "Mechanism: Speed does not hide bad news; it outruns it.",
+      "Steelman: Smart firms forecast the slow signal. Some do, but forecasts of slow harm are exactly what fast positive feedback crowds out.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "Smart firms forecast the slow signal. Some do, but forecasts of slow harm are exactly what fast positive feedback crowds out.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C11",
+    "claim_title": "Money has no internal motivation model, so it runs in circles",
+    "winner_id": "C11-steelman_first-v3",
+    "lane": "steelman_first",
+    "score": 5.76,
+    "status": "viral_but_dangerous",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "If this claim is wrong, it is wrong here: Returns are real-world signal. Returns are fast signals can decouple from slow reality; the decoupling window is where runaways live. In a fast market it borrows direction from nearest signal, which is other capital.",
+    "thread": [
+      "If this claim is wrong, it is wrong here: Returns are real-world signal. Returns are fast signals can decouple from slow reality; the decoupling window is where runaways live. In a fast market it borrows direction from nearest signal, which is other capital.",
+      "Claim: Money has no internal motivation model, so it runs in circles.",
+      "Mechanism: A system responding only to itself accelerates because the only signal left is its own. Human judgment is steering, not fuel.",
+      "Steelman: Returns are real-world signal. Returns are fast signals that can decouple from slow reality; the decoupling window is where runaways live.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "Returns are real-world signal. Returns are fast signals that can decouple from slow reality; the decoupling window is where runaways live.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C12",
+    "claim_title": "A floor is worth more the more you build on it, and it can never be cheapest",
+    "winner_id": "C12-steelman_first-v2",
+    "lane": "steelman_first",
+    "score": 5.876,
+    "status": "viral_but_dangerous",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "Concede the strongest counter first: This is network effects/lock-in. Distinct: asset is dependability, not network size. A trusted small floor beats a large erratic one. Still: Compete on cost and you race to zero; cost is reconstructible.",
+    "thread": [
+      "Concede the strongest counter first: This is network effects/lock-in. Distinct: asset is dependability, not network size. A trusted small floor beats a large erratic one. Still: Compete on cost and you race to zero; cost is reconstructible.",
+      "Claim: A floor is worth more the more you build on it, and it can never be cheapest.",
+      "Mechanism: A stable floor lets everyone above stop re-checking their foundation and spend energy building.",
+      "Steelman: This is network effects/lock-in. Distinct: asset is dependability, not network size. A trusted small floor beats a large erratic one.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "This is network effects/lock-in. Distinct: asset is dependability, not network size. A trusted small floor beats a large erratic one.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  },
+  {
+    "claim_id": "C13",
+    "claim_title": "Defense is about to beat offense, because recognition got cheap and generation did not",
+    "winner_id": "C13-steelman_first-v2",
+    "lane": "steelman_first",
+    "score": 6.624,
+    "status": "viral_but_dangerous",
+    "pairwise_wins": 24,
+    "pairwise_losses": 0,
+    "hook": "Concede the strongest counter first: AI accelerates offense too. Load-bearing falsifier: if genuinely-new-state generation accelerates as much as recognition, reversal fails. If defense outruns offense, the world can push back in time.",
+    "thread": [
+      "Concede the strongest counter first: AI accelerates offense too. Load-bearing falsifier: if genuinely-new-state generation accelerates as much as recognition, reversal fails. If defense outruns offense, the world can push back in time.",
+      "Claim: Defense is about to beat offense, because recognition got cheap and generation did not.",
+      "Mechanism: Record state, let AI find drift, keep human authority to say no: observe, model, reject.",
+      "Steelman: AI accelerates offense too. Load-bearing falsifier: if genuinely-new-state generation accelerates as much as recognition, reversal fails.",
+      "If the counter predicts the live replies better than the mechanism, mark the thread as a miss and rewrite the claim, not the audience.",
+      "The thesis means nothing without the artifact: prediction first, outcome log after."
+    ],
+    "strongest_counter": "AI accelerates offense too. Load-bearing falsifier: if genuinely-new-state generation accelerates as much as recognition, reversal fails.",
+    "falsifier_log_prompt": "After posting, record 2h/24h/72h metrics and whether the real counter appeared from P+ or only from P-."
+  }
+]
