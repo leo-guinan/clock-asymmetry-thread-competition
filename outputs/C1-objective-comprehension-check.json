@@ -1,0 +1,46 @@
+[
+  {
+    "model": "llama3.2:latest",
+    "answers": {
+      "q1": "B",
+      "q2": "B",
+      "q3": "B",
+      "q4": "B",
+      "one_sentence_summary": "The thread argues that the headline net worth of billionaires is not a pile of cash, but rather an estimate based on market prices.",
+      "confusing_phrases": [
+        "trillion",
+        "headline number"
+      ]
+    },
+    "correct": {
+      "q1": true,
+      "q2": true,
+      "q3": true,
+      "q4": true
+    },
+    "score": 4,
+    "passed": true
+  },
+  {
+    "model": "llama3.1:8b",
+    "answers": {
+      "q1": "B",
+      "q2": "B",
+      "q3": "B",
+      "q4": "B",
+      "one_sentence_summary": "The thread explains that the value of a billionaire's wealth is not accurately represented by the headline net worth, which is based on current market estimates.",
+      "confusing_phrases": [
+        "If everyone knows a huge block must be sold, buyers wait or demand a discount.",
+        "Falsifier: if huge forced stock sales usually converted into cash near the starting market value without lowering the price, this argument would fail."
+      ]
+    },
+    "correct": {
+      "q1": true,
+      "q2": true,
+      "q3": true,
+      "q4": true
+    },
+    "score": 4,
+    "passed": true
+  }
+]
